@@ -8,3 +8,8 @@
 	url = https://github.com/taoshengxu/cancersubtypes
 	shallow = true
 	registered = true
+[submodule "miRBaseConverter"]
+	path = miRBaseConverter
+	url = https://github.com/taoshengxu/mirbaseconverter
+	shallow = true
+	registered = true
