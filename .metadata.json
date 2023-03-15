@@ -1,8 +1,8 @@
 [
   {
-    "package": "miRBaseConverter"
+    "package": "CancerSubtypes"
   },
   {
-    "package": "CancerSubtypes"
+    "package": "miRBaseConverter"
   }
 ]

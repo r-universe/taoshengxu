@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "miRBaseConverter"]
-	path = miRBaseConverter
-	url = https://github.com/taoshengxu/mirbaseconverter
-	shallow = true
-	registered = true
 [submodule "CancerSubtypes"]
 	path = CancerSubtypes
 	url = https://github.com/taoshengxu/cancersubtypes
+	shallow = true
+	registered = true
+[submodule "miRBaseConverter"]
+	path = miRBaseConverter
+	url = https://github.com/taoshengxu/mirbaseconverter
 	shallow = true
 	registered = true
